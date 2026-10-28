@@ -1,0 +1,24 @@
+1
+00:00:31,500 --> 00:00:39,500
+Detecting: Peace Sign ✌
+
+2
+00:00:39,500 --> 00:00:44,500
+Detecting: Thumbs Up 👍
+
+3
+00:00:44,500 --> 00:00:49,500
+Detecting: Open Palm ✋
+
+4
+00:00:49,500 --> 00:00:57,500
+Detecting: Fist ✊
+
+5
+00:00:59,500 --> 00:01:09,500
+Adjusting the confidence threshold
+
+6
+00:01:19,500 --> 00:01:25,700
+Screenshot saving
+
